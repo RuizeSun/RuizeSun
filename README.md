@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![RuizeSun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruizesun&show_icons=true&theme=buefy&locale=zh-TW)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizesun&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizesun&layout=compact&locale=zh-TW)
 
 
 <!--
