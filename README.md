@@ -1,4 +1,4 @@
-[![homepage](https://github.com/user-attachments/assets/67206e82-b430-4db7-bedb-6cc30829179c)](https://ruizesun.github.io/)
+[Go](https://ruizesun.github.io/)
 
 
 <!--
